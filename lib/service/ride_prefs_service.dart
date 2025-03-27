@@ -4,7 +4,7 @@ import '../repository/ride_preferences_repository.dart';
 ////
 ///   This service handles:
 ///   - The past ride preferences
-///   - The currennt ride preferences
+///   - The current ride preferences
 ///
 class RidePrefService {
   // Static private instance
